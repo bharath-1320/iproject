@@ -3,3 +3,4 @@
 /backend/          @your-org/backend-team
 /data-analytics/   @your-org/data-team
 *                  @your-org/repo-admins
+/frontend/ @bharath-1320
