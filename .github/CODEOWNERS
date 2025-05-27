@@ -1,1 +1,5 @@
-
+# Define ownership by folder
+/frontend/         @your-org/frontend-team
+/backend/          @your-org/backend-team
+/data-analytics/   @your-org/data-team
+*                  @your-org/repo-admins
