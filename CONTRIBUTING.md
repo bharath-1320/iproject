@@ -1,5 +1,6 @@
+# Assign specific users to folders
 
-/Frontend/ DharneshVasudev
-/Backend/ dharnesh13600 
-/Data-analytics/ codebiz-mldv
+/Frontend/         @DharneshVasudev
+/Backend/          @dharnesh13600
+/Data-analytics/   @codebiz-mldv
 
