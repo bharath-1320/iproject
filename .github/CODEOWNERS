@@ -1,6 +1,6 @@
-# Define ownership by folder
-/frontend/         @your-org/frontend-team
-/backend/          @your-org/backend-team
-/data-analytics/   @your-org/data-team
-*                  @your-org/repo-admins
-/frontend/ @bharath-1320
+# Assign specific users to folders
+
+/Frontend/         @DharneshVasudev
+/Backend/          @dharnesh13600
+/Data-analytics/   @codebiz-mldv
+
