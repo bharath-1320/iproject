@@ -3,8 +3,9 @@ name: Lint Backend
 on:
   pull_request:
     branches: [main]
-    paths:
-      - 'Backend/'
+    paths: ['Backend/**']
+    # paths:
+    #   - 'Backend/'
       # - 'fea-backend/'
 
 jobs:
